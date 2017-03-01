@@ -129,6 +129,13 @@ img {
   padding: 40px 20px;
 }
 
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
 
 /* ==========================================================================
    HEADER & HERO
@@ -375,14 +382,6 @@ input.button:hover {
 
 .red {
   color: #871719;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
 }
 
 footer {
