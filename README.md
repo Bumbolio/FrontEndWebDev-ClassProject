@@ -3,6 +3,8 @@ Classroom activity for front-end web dev class
 
 ## Hello world!
 
+## Hi there!
+
 #Week 1 Challenge
 
 1. Update index.html to include _/css/styles.css_
